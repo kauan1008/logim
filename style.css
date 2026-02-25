@@ -4,4 +4,6 @@ beckgrou-color:rgb(226,127, 45);
 }
 
 div{
-    background-color: rgb(red, green, blue)
+    background-color: rgb(red, green, blue);
+    position: absolute;
+    top: 50%;
